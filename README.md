@@ -1,5 +1,7 @@
 This repo is about learning deep reinforcement learning by implementing classical RL algorithms.
 
+The template code of this repo is from the course Deep Reinforcement Learning in NTU CSIE.
+
 ---
 
 ## Algorithms
